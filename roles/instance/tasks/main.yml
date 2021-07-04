@@ -23,7 +23,7 @@
 
       image: ami-719fb712 # This is an AMI i created myself
 
-      keypair: agix-key # This is one of my keys that i already have in AWS
+      keypair: hyein # This is one of my keys that i already have in AWS
 
       region: ap-southeast-2 # Change the Region
 
